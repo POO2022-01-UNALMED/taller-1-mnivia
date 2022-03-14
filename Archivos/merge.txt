@@ -1,3 +1,11 @@
+
 Nombre: Marlon Santiago Nivia Devia
 Edad: 21
 Aspiraciones: Adquirir conocimiento que influya directamente en mi carrera laboral.
+
+Ya que Github es un controlador de versiones de archivos, al no encontrar cambios en ningun archivo como tal al creal la carpeta Archivos,
+no existiria sobre que archivo hacer la copia o el commit.
+Al crear el archivo de respuest.txt si detecta el cambio en un archivo por lo cual si permite realizar el commit.
+
+Es importante tener cuidao al modificar dos archivos al mismo tiempo, porque no se tendría consistencia en 
+cual de las dos versiones a guardar.
