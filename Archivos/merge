@@ -1,0 +1,3 @@
+Ya que Github es un controlador de versiones de archivos, al no encontrar cambios en ningun archivo como tal al creal la carpeta Archivos,
+no existiria sobre que archivo hacer la copia o el commit.
+Al crear el archivo de respuest.txt si detecta el cambio en un archivo por lo cual si permite realizar el commit.
