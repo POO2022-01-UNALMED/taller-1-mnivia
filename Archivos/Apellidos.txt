@@ -1,3 +1,6 @@
 Ingrese a continuación su primer apellido: Nivia
 
 Ingrese a continuación su segundo apellido:Devia
+
+Debido a que los cambios realizados se hacen en dos zonas diferentes en los cuales no se generan se conflictos
+para github.
